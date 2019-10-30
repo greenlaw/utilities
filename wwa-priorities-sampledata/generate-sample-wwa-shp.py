@@ -5,7 +5,7 @@ Generate a sample WWA shapefile with at least one of each potential WWA type.
 WWA polygons are created as concentric circles over the Contiguous U.S., with
 highest-priority WWAs as the innermost circles. This can then be used to
 develop symbology and validate precedence, with the target output looking like
-a jawbreaker.
+a jawbreaker. For an example, see ``wwa_sample_priority.jpg``.
 
 Actual source shapefile containing target schema can be downloaded from:
 
